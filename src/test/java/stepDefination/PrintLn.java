@@ -4,6 +4,9 @@ import pageLayer.CheckoutCmpltPage;
 
 public class PrintLn {
 	
-	CheckoutCmpltPage complete = new CheckoutCmpltPage();
+	public void print(){
+		System.out.println("hello");
+		
+	}
 
 }
